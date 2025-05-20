@@ -2,10 +2,7 @@
 
 A high-performance tensor computation and automatic differentiation library written in pure Rust.
 
-[![Crates.io](https://img.shields.io/crates/v/adamant.svg)](https://crates.io/crates/adamant)
-[![Documentation](https://docs.rs/adamant/badge.svg)](https://docs.rs/adamant)
-[![Build Status](https://github.com/yourusername/adamant/workflows/Rust/badge.svg)](https://github.com/yourusername/adamant/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Overview
 
@@ -76,3 +73,7 @@ This project is licensed under the Apache License, Version 2.0 - see [LICENSE](L
 ## Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in this project by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+
+
+
+
