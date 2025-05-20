@@ -103,3 +103,4 @@ no_llvm_build
     /default.nix
 
     # Before adding new lines, see the comment at the top.
+target/
