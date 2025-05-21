@@ -283,7 +283,7 @@ impl<T: Clone + Default> Tensor<T> {
                 // through elements in the target layout order
                 if (self.layout() == MemoryLayout::RowMajor && layout == MemoryLayout::ColumnMajor) ||
                     (self.layout() == MemoryLayout::ColumnMajor && layout == MemoryLayout::RowMajor) {
-                    let new_shape = TensorShape::with_layout(self.dims(), layout);
+                    let _new_shape = TensorShape::with_layout(self.dims(), layout);
 
                     // Efficiently convert layouts without individual get() calls
                     let old_shape = &self.shape;

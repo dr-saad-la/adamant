@@ -3,7 +3,6 @@
 //! This module provides the error types and result wrappers used throughout
 //! the library for handling various exceptional conditions.
 
-use std::fmt;
 
 /// Error types for tensor operations
 #[derive(Debug, Clone, PartialEq)]
